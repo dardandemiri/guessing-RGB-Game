@@ -21,6 +21,10 @@ body {
   padding: 0;
 }
 
+.col-10 {
+  margin: 0 auto;
+}
+
 #colorDisplay {
   text-transform: uppercase;
 }
